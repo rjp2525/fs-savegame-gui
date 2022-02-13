@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<treePlant>
+    <tree treeType="BIRCH" position="9.6462 18.4708 -465.9001" rotation="0.0000 125.6757 0.0000" growthState="0.833333" growthStateI="5" isGrowing="false" splitShapeFileId="1"/>
+    <tree treeType="BIRCH" position="4.5834 18.4708 -461.0068" rotation="0.0000 231.5036 0.0000" growthState="0.666667" growthStateI="4" isGrowing="false" splitShapeFileId="2"/>
+    <tree treeType="BIRCH" position="-45.0792 18.4981 -513.4616" rotation="0.0000 161.4934 0.0000" growthState="0.333333" growthStateI="2" isGrowing="false" splitShapeFileId="3"/>
+    <tree treeType="BIRCH" position="-50.5817 18.4981 -513.8221" rotation="0.0000 57.3012 0.0000" growthState="0.333333" growthStateI="2" isGrowing="false" splitShapeFileId="4"/>
+    <tree treeType="BIRCH" position="-42.6179 18.4981 -517.8239" rotation="0.0000 31.0778 0.0000" growthState="0.333333" growthStateI="2" isGrowing="false" splitShapeFileId="5"/>
+    <tree treeType="BIRCH" position="-23.1257 18.4942 -514.2982" rotation="0.0000 40.0150 0.0000" growthState="0.500000" growthStateI="3" isGrowing="false" splitShapeFileId="6"/>
+    <tree treeType="BIRCH" position="-23.0777 18.4942 -518.6575" rotation="0.0000 46.8992 0.0000" growthState="0.666667" growthStateI="4" isGrowing="false" splitShapeFileId="7"/>
+    <tree treeType="BIRCH" position="-1.2304 18.5019 -512.2726" rotation="0.0000 346.6322 0.0000" growthState="0.666667" growthStateI="4" isGrowing="false" splitShapeFileId="8"/>
+    <tree treeType="OAK" position="29.6595 19.1083 -564.1608" rotation="0.0000 236.0086 0.0000" growthState="0.500000" growthStateI="2" isGrowing="false" splitShapeFileId="9"/>
+    <tree treeType="OAK" position="33.7792 21.1323 -546.8848" rotation="0.0000 36.1666 0.0000" growthState="0.500000" growthStateI="2" isGrowing="false" splitShapeFileId="10"/>
+    <tree treeType="OAK" position="18.0119 18.8231 -552.7758" rotation="0.0000 223.0201 0.0000" growthState="0.500000" growthStateI="2" isGrowing="false" splitShapeFileId="11"/>
+    <tree treeType="BIRCH" position="25.6036 19.1337 -555.4761" rotation="0.0000 25.8291 0.0000" growthState="1.000000" growthStateI="6" isGrowing="false" splitShapeFileId="12"/>
+    <tree treeType="BIRCH" position="21.1160 18.8309 -559.4822" rotation="0.0000 239.8199 0.0000" growthState="1.000000" growthStateI="6" isGrowing="false" splitShapeFileId="13"/>
+    <tree treeType="BIRCH" position="-48.9945 18.4981 -577.2861" rotation="0.0000 307.4575 0.0000" growthState="1.000000" growthStateI="6" isGrowing="false" splitShapeFileId="14"/>
+    <tree treeType="BIRCH" position="-59.9761 18.4981 -561.7158" rotation="0.0000 107.4216 0.0000" growthState="0.833333" growthStateI="5" isGrowing="false" splitShapeFileId="15"/>
+    <tree treeType="OAK" position="-51.4081 18.4980 -552.5103" rotation="0.0000 0.0470 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="16"/>
+    <tree treeType="OAK" position="-63.7507 18.4981 -554.0775" rotation="0.0000 182.4574 0.0000" growthState="1.000000" growthStateI="4" isGrowing="false" splitShapeFileId="17"/>
+    <tree treeType="WILLOW2" position="-64.0163 18.4981 -566.2204" rotation="0.0000 169.9277 0.0000" growthState="1.000000" growthStateI="2" isGrowing="false" splitShapeFileId="18"/>
+    <tree treeType="WILLOW1" position="-65.0420 18.1238 -579.1318" rotation="0.0000 138.4121 0.0000" growthState="1.000000" growthStateI="2" isGrowing="false" splitShapeFileId="19"/>
+    <tree treeType="PINE" position="-48.3909 18.4981 -568.6666" rotation="0.0000 37.8155 0.0000" growthState="0.571429" growthStateI="4" isGrowing="false" splitShapeFileId="20"/>
+    <tree treeType="SPRUCE2" position="-77.1859 15.3006 -572.1094" rotation="0.0000 17.3496 0.0000" growthState="0.500000" growthStateI="2" isGrowing="false" splitShapeFileId="21"/>
+    <tree treeType="SPRUCE2" position="-68.6714 18.4981 -564.9044" rotation="0.0000 282.5967 0.0000" growthState="0.500000" growthStateI="2" isGrowing="false" splitShapeFileId="22"/>
+    <tree treeType="SPRUCE2" position="-73.3922 18.4981 -553.1251" rotation="0.0000 335.1762 0.0000" growthState="0.500000" growthStateI="2" isGrowing="false" splitShapeFileId="23"/>
+    <tree treeType="BIRCH" position="-58.4002 18.4981 -572.5048" rotation="0.0000 227.0501 0.0000" growthState="0.833333" growthStateI="5" isGrowing="false" splitShapeFileId="24"/>
+    <tree treeType="BIRCH" position="-58.1118 18.4671 -586.1040" rotation="0.0000 36.9557 0.0000" growthState="0.833333" growthStateI="5" isGrowing="false" splitShapeFileId="25"/>
+    <tree treeType="BIRCH" position="-68.0572 14.2094 -592.2854" rotation="0.0000 336.5838 0.0000" growthState="0.833333" growthStateI="5" isGrowing="false" splitShapeFileId="26"/>
+    <tree treeType="BIRCH" position="-33.9725 18.4756 -496.0795" rotation="0.0000 149.2329 0.0000" growthState="0.666667" growthStateI="4" isGrowing="false" splitShapeFileId="27"/>
+</treePlant>

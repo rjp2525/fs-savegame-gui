@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<npcs>
+    <npc name="NPC_ALPINE_01" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_02" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_03" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_04" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_05" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_06" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_07" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_08" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_09" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_10" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_11" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_12" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_13" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_14" finishedMissions="0"/>
+    <npc name="NPC_ALPINE_15" finishedMissions="0"/>
+</npcs>

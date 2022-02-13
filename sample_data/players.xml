@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<players>
+    <player uniqueUserId="L9tyC7FcFusam2g+EkmhFLMmgt9zFxGuVnLPlJc8QVo=">
+        <style filename="dataS/character/humans/player/player01.xml" beardConfig="1" beardConfigColor="6" bottomConfig="0" faceConfig="1" faceConfigColor="1" footwearConfig="2" footwearConfigColor="3" glassesConfig="0" glovesConfig="0" hairStyleConfig="10" hairStyleConfigColor="6" headgearConfig="0" mustacheConfig="0" onepieceConfig="10" onepieceConfigColor="3" topConfig="0" facegearConfig="0"/>
+    </player>
+</players>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Mein Spielstand</savegameName>
+        <creationDate>2022-01-05</creationDate>
+        <mapId>mapAlpine</mapId>
+        <mapTitle>Erlengrat</mapTitle>
+        <saveDateFormatted>05.01.2022</saveDateFormatted>
+        <saveDate>2022-01-05</saveDate>
+        <resetVehicles>false</resetVehicles>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
+        <growthMode>1</growthMode>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>false</plowingRequiredEnabled>
+        <stonesEnabled>true</stonesEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <isSnowEnabled>true</isSnowEnabled>
+        <fuelUsage>3</fuelUsage>
+        <helperBuyFuel>false</helperBuyFuel>
+        <helperBuySeeds>false</helperBuySeeds>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
+        <helperSlurrySource>1</helperSlurrySource>
+        <helperManureSource>1</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>2</mapSplitShapesRevision>
+        <mapTipCollisionRevision>2</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>2</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>4</mapNavigationCollisionRevision>
+        <difficulty>1</difficulty>
+        <economicDifficulty>1</economicDifficulty>
+        <dirtInterval>4</dirtInterval>
+        <timeScale>6.000000</timeScale>
+        <autoSaveInterval>15.000000</autoSaveInterval>
+    </settings>
+    <guidedTour active="true" currentStepIndex="1"/>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>41435</money>
+        <playTime>302.401886</playTime>
+    </statistics>
+    <slotSystem slotUsage="331"/>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="FS22_FendtVario900TMSG3_Christmas" title="Fendt Vario 900 TMS" version="1.0.0.0" required="false" fileHash="9855d7308d0b56067e3b9fd698ad6898"/>
+    <mod modName="FS22_CaseIH_Puma_Series" title="Case Puma 240 CVX &amp; Powerdrive" version="1.1.0.0" required="false" fileHash="acdf2ee0e0677b1a227b743e5bcd5688"/>
+    <mod modName="FS22_paintAndTerraformAnywhere" title="Überall Malen Und Gelände Verändern" version="1.0.0.0" required="false" fileHash="78ddd168268330dec7573e69f7d63755"/>
+    <mod modName="FS22_kvernelandIPlough2500" title="Kverneland 2500 S i-Plough" version="1.0.0.0" required="false" fileHash="a067553ca64c7f3c5175a4a50dc00c4b"/>
+    <mod modName="FS22_Eicher3066_BETA" title="Eicher 3066" version="1.0.0.1 BETA" required="false" fileHash="2c9734cb496ffb472fcbb54af8e30a8d"/>
+    <mod modName="FS22_allPurposeTool" title="Allzweckwerkzeug" version="1.0.0.0" required="false" fileHash="fd52fd41c8197f2931e4f8478e3918ff"/>
+    <mod modName="FS22_viconFastBale" title="Vicon FastBale" version="1.0.0.0" required="false" fileHash="e9485bdf073f10dd34b234370576596d"/>
+    <mod modName="FS22_MbTrac1300_1800" title="MB Trac 1300-1800" version="1.0.0.0" required="false" fileHash="e59616f6458b76e8b334dcb1371fe5c8"/>
+    <mod modName="FS22_Fliegl_ASW271" title="Fliegl ASW 271" version="1.0.0.0" required="false" fileHash="a2316df184c5ee916fc153b9a99cc0ac"/>
+    <mod modName="FS22_hudToggle" title="HUD Umschalten" version="1.0.0.0" required="false" fileHash="4a9dceb91be425c305806bc2026bb045"/>
+    <mod modName="FS22_ClaasCargos_8400" title="Claas Cargos 8400" version="1.0.0.0" required="false" fileHash="50d37e1ff5e99f6b91036ae5f0c3890c"/>
+    <mod modName="FS22_LimeFactory" title="Kalkfabrik" version="1.0.0.0" required="false" fileHash="90fa6f956486200ceb6006f5c8390ad9"/>
+    <mod modName="FS22_koeckerlingVector" title="Köckerling Vector 460/620" version="1.0.0.0" required="false" fileHash="cdb87d548acd7c5160c4aafd9f6f3a13"/>
+    <mod modName="FS22_EnhancedVehicle" title="EnhancedVehicle" version="1.1.0.0" required="false" fileHash="c9fc8731dc1da2fb99dedbb2c6397e41"/>
+    <mod modName="FS22_Stihl_RE581" title="Hochdruckreiniger Stihl RE581" version="1.0.0.0" required="false" fileHash="7ad13f96d902ce0b845735c91d57a8c0"/>
+    <mod modName="FS22_playerActionCamera" title="PlayerActionCamera" version="1.0.0.0" required="false" fileHash="dd8465878d948ed70023a6e8b3dd5cc2"/>
+    <mod modName="FS22_claasTucano580" title="Claas TUCANO 580" version="1.0.0.0" required="false" fileHash="17c2ba0eef1e2d3584ea351c92edf90d"/>
+    <mod modName="FS22_schuitemakerVertigoPack" title="Schuitemaker Vertigo Pack" version="1.0.0.0" required="false" fileHash="af20d26293e4b54cf6532e229bb2df1a"/>
+    <mod modName="FS22_kvernelandDGll12000" title="Kverneland DG II 12000" version="1.0.0.0" required="false" fileHash="1fc9a44e72d7781f27c2b2eb83ae1409"/>
+    <mod modName="FS22_MBtrac1000_1100" title="MB Trac 1000-1100" version="1.1.0.0" required="false" fileHash="e4614beccd738b218504de88c7e640c9"/>
+    <mod modName="FS22_guettlerGreenmaster600" title="Güttler Greenmaster 600" version="1.0.0.0" required="false" fileHash="c3db40f918faf8bc806abc378beea223"/>
+    <mod modName="FBM22_FendtTigo_35ST" title="Fendt Tigo35 ST" version="1.0.0.0" required="false" fileHash="ea9ac1b3b6c8cc7bc41fa807438175a9"/>
+    <mod modName="FS22_viconFanex604" title="Vicon Fanex 604" version="1.0.0.0" required="false" fileHash="17d35c73589abdb43881b828db826ccc"/>
+    <mod modName="FS22_DeutzSeries7_8" title="Deutz-Fahr Series 7 TTV / Series 8 TTV" version="1.0.0.0" required="false" fileHash="eda098245df9911cbc151944cc55b133"/>
+    <mod modName="FS22_viconExtraPack" title="Vicon EXTRA Pack" version="1.0.0.0" required="false" fileHash="862e361679de4519c9cf54f975265546"/>
+    <mod modName="FS22_viconAndex1304Pro" title="Vicon Andex 1304 PRO" version="1.0.0.0" required="false" fileHash="355ed602a629b0b37dbc4ad530f714cb"/>
+    <mod modName="FS22_deutzAgroStar661" title="Deutz AgroStar 661" version="1.0.0.0" required="false" fileHash="55b1a96d65a21df783b0b7c341ac9544"/>
+    <mod modName="FS22_SquareSBale_Pack" title="Kaufbare Kleine Quaderballen" version="1.0.0.0" required="false" fileHash="acad80d18e341ccf842c91bd1e43a570"/>
+    <mod modName="Fs22_Fendt700_800TMS" title="Fendt 700/800 Vario" version="1.0.1" required="false" fileHash="8ae1c9db53834dea15e8e2004d9be8c4"/>
+    <mod modName="FS22_JohnDeere6930" title="John Deere 6030" version="1.2.0.0" required="false" fileHash="464fea5e790753868a67f60088fa6141"/>
+    <mod modName="FS22_SilageSilo" title="Silage Silo Pack" version="1.1.0.0" required="false" fileHash="db8495ce060c182ddd58cfa15b8f13b0"/>
+    <mod modName="FS22_FendtVario_900Gen7" title="Fendt Vario 900Gen7" version="1.0.0.0" required="false" fileHash="83e79f8553a9d70ce52ea6a3eff4e585"/>
+    <mod modName="FS22_PlaceableExtended" title="PlaceableExtended" version="1.0.0.0" required="false" fileHash="f7973c94ca95bafcfa9408e9e8be7431"/>
+    <mod modName="FS22_caseIHMagnum7240Pro" title="CaseIH Magnum 7200 Pro Series" version="1.0.0.0" required="false" fileHash="220e0adc537eed057bf5fbfd1cdbb96c"/>
+    <mod modName="FS22_poettingerImpress125FCPro" title="Pöttinger Impress 125 FC Pro" version="1.0.0.0" required="false" fileHash="6d8b3840a226cab94fc69ce95a034ff9"/>
+    <mod modName="FS22_guidanceSteering" title="Guidance Steering" version="2.0.1.0" required="false" fileHash="e2780cae59350e0231fabeea578dbf60"/>
+    <mod modName="FS22_RollandPack" title="Rolland Pack" version="1.0.0.1" required="false" fileHash="d34dc86aedd0772614131cad720f236e"/>
+    <mod modName="FS22_meyerSauzahn5000" title="Meyer Sauzahn 5000" version="1.0.0.0" required="false" fileHash="872d380a1a0f11c94b27844238f2acc6"/>
+    <mod modName="FS22_airHoseConnectSound" title="Druckluftschlauch-Anschluss-Sound" version="1.0.0.0" required="false" fileHash="d03a1495313c225f4540864cb9182df9"/>
+    <mod modName="FS22_flieglDPWpack" title="Fliegl DPW Pack" version="1.0.0.0" required="false" fileHash="5fce5fa8901e8b1aba57f5e439b5f5ad"/>
+    <mod modName="FS22_deutzFahrAgroPrima451" title="Deutz Fahr AgroPrima 4.51" version="1.0.0.0" required="false" fileHash="7597d05ce4303c9101b8068870eef044"/>
+    <mod modName="pdlc_claasSaddleTracPack" title="CLAAS XERION SADDLE TRAC Pack" version="1.0.0.0" required="false" fileHash="90d531269d6f333fcd8a145f831c5f37"/>
+    <mod modName="FS22_FendtVario_300" title="Fendt Vario 300" version="1.0.0.0" required="false" fileHash="b0215128aeb611fa4ffe28de6eec82e7"/>
+    <mod modName="FS22_HeavyDutyShelf" title="Schwerlastregal" version="1.0.0.0" required="false" fileHash="ee064df3ce18e23cc4c26776d9a93e61"/>
+    <mod modName="FS22_HW80WoodTrailer" title="HW80 Holzanhänger" version="1.0.0.0" required="false" fileHash="aeb0fe3fb4afc0ff8a9329b7d374e31a"/>
+</careerSavegame>
